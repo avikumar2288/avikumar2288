@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avikumar2288
 - 👀 I’m interested in ...cloud Engineering 
-- 🌱 I’m currently learning ...Microsfot Azure
+- 🌱 I’m currently learning ...Microsoft Azure
 - 💞️ I’m looking to collaborate on ...New Technology 
 - 📫 How to reach me ...@avikumar2288@gmail.com
 
