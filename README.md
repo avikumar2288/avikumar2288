@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avikumar2288
+- 👋 Hi, I’m @Avinash Narangalkar
 - 👀 I’m interested in ...cloud Engineering 
 - 🌱 I’m currently learning ...Microsoft Azure
 - 💞️ I’m looking to collaborate on ...New Technology 
